@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+
+body{
+    font-family: 'Yellowtail', cursive;
+    text-align: center;
+    border: 5px solid black;
+    
+
+}
+
+
+h1{
+    font-size: 50px;
+    color: crimson;
+}
+
+h2{
+    font-size: 50px;
+    color: crimson;
+}
+
+p{
+    font-size: 30px;
+    color: darkblue;
+}
+
+img{
+    height: 300px;
+    width: 300px;
+    border-radius: 10000px;
+}
+
+button{
+    color: black;
+    background-color: chartreuse;
+    border-radius: 100000px;
+    height: 46.7px;
+    width: 46.7px;
+
+}
